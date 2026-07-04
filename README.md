@@ -13,7 +13,7 @@
 
 **Let’s connect and grow together!** 🚀
 
----
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -24,28 +24,26 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreabetrina&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreabetrina&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreabetrina&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreabetrina&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
 
----
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=andreabetrina&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=andreabetrina&background=FFF5FA&border=FF8FB1&stroke=FF8FB1&ring=FF5C77&fire=FF5C77&currStreakNum=E75480&currStreakLabel=E75480&sideNums=A64D79&sideLabels=A64D79&dates=C97BA5"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreabetrina&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreabetrina&bg_color=FFF5FA&color=A64D79&line=FF5C77&point=E75480&area=true&area_color=FFD6E7&title_color=E75480&hide_border=false"/>
 </p>
 
----
 ## 🐍 Contribution Snake
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/andreabetrina/andreabetrina/output/github-contribution-grid-snake.svg)
@@ -70,7 +68,6 @@
 
 </p>
 
----
 
 <p align="center">
 💖 <i>"Code with purpose. Learn without limits."</i> 💖
