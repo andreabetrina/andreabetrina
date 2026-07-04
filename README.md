@@ -54,15 +54,15 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/andreabetrina">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/andrea-betrina">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:andeabetrina06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
