@@ -74,6 +74,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a
 </p>
 
 <div align="center">
-    <img width=300 src="./assets/ChatGPT Image Jul 2, 2026, 01_05_03 AM.png"/>
+    <img width=auto src="./assets/tulip.png"/>
 </div>
 
