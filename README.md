@@ -48,10 +48,10 @@
 ---
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreabetrina/andreabetrina/output/github-contribution-grid-snake.svg" />
-</p>
+![GitHub Snake Animation](https://raw.githubusercontent.com/andreabetrina/andreabetrina/output/github-contribution-grid-snake.svg)
 
+
+---
 ## 🌸 Connect With Me
 
 <p align="center">
@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
-💖 <i>"Code with purpose. Design with empathy. Learn without limits."</i> 💖
+💖 <i>"Code with purpose. Learn without limits."</i> 💖
 </p>
 
 
