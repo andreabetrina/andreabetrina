@@ -72,5 +72,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a
 <p align="center">
 💖 <i>"Code with purpose. Learn without limits."</i> 💖
 </p>
-
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>
+</div>
 
