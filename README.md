@@ -9,9 +9,9 @@
 </p>
 🌷 Hi, I'm Andrea Betrina!
 
-> Turning ideas into beautiful digital experiences through code, creativity, and curiosity. 💗
+> Turning ideas into beautiful digital experiences through code, creativity, and curiosity. 
 
-**Let’s connect and grow together!** 🚀
+**Let’s connect and grow together!** 
 
 
 ## 🛠️ Tech Stack
@@ -71,7 +71,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a
 
 
 <p align="center">
-💖 <i>"Code with purpose. Learn without limits."</i> 💖
+💖 <i>"Code with purpose. Learn without limits."</i> 
 </p>
 
 <div align="center">
