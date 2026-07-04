@@ -14,9 +14,66 @@
 **Let’s connect and grow together!** 🚀
 
 ---
+## 🛠️ Tech Stack
 
-## 📊 GitHub Stats:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,mysql,git,github,vscode,figma&theme=light" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=andreabetrina&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=andreabetrina&theme=rose_pine&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabetrina&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreabetrina&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreabetrina&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=andreabetrina&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreabetrina&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreabetrina/andreabetrina/output/github-contribution-grid-snake.svg" />
+</p>
+---
+## 🌸 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💖 <i>"Code with purpose. Design with empathy. Learn without limits."</i> 💖
+</p>
+
+
